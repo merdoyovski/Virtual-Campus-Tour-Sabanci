@@ -1,2 +1,7 @@
-# virtual-tour-sabanci
-Virtual Tour of the Sabanci University
+# Sabanci University Virtual Tour
+
+Virtual Tour implemented by me for Medex labs and Sabanci Univesity using KrPano, JS, XML and HTML.
+
+Compatible with both deskstop and mobile browsers.
+
+https://www.sabanciuniv.edu/360campustour/
